@@ -1,0 +1,7 @@
+pandoc: '2.2'
+pkgdown: 1.2.0
+pkgdown_sha: ~
+articles:
+  _themes_test_figures: child/_themes_test_figures.html
+  themes: themes.html
+
